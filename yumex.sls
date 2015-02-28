@@ -1,0 +1,3 @@
+yumex:
+  pkg:
+    - installed
